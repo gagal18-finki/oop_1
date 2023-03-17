@@ -1,0 +1,6 @@
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/aud_1.dir
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/aud_2.dir
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/aud_3.dir
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/test.dir
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eagleitsolutions/CLionProjects/oop_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
